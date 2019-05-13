@@ -1,6 +1,6 @@
 def starts_with_a_vowel?(word)
   word.each do |word|
-    if word = ^[aeiou]:TRUE
+    if word = ^[aeiou] TRUE
     else false
 
 end
